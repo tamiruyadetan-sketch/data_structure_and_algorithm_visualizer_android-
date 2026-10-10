@@ -223,7 +223,7 @@ Released under the **MIT License**. Add a `LICENSE` file with your name and year
 
 ## 👤 Author
 
-**Your Name**: [GitHub](https://github.com/your-username)
+**Your Name**: [GitHub](https://github.com/your-username)https://github.com/tamiruyadetan-sketch/data_structure_and_algorithm_visualizer_android-.git
 
 If this project helped you learn, give it a ⭐
 
