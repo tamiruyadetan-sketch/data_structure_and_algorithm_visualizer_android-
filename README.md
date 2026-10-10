@@ -118,7 +118,8 @@ app/src/main/java/com/example/dsavisualizer/
 ### Run
 
 ```bash
-git clone https://github.com/<your-username>/DSAVisualizer.git
+git clone https://github.com/<your-username>/DSAVisualizer.git](https://github.com/tamiruyadetan-sketch/data_structure_and_algorithm_visualizer_android-.git
+)
 cd DSAVisualizer
 ```
 
