@@ -1,0 +1,41 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Files for the ART/Dalvik VM
+*.odex
+*.oat
+*.art
+
+# Generated files
+bin/
+gen/
+out/
+# Android Studio builds cache
+build/
+app/build/
+# Gradle cache / generated files
+.gradle/
+# Local configuration/properties files that shouldn't be shared
+local.properties
+gradle.properties
+# NDK
+obj/
+ndk/
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+# Keystore files
+*.jks
+*.keystore
+# Fastlane
+fastlane/
+# Version control
+.DS_Store
+*.swp
+*~
