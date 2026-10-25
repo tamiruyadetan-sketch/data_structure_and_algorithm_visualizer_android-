@@ -27,7 +27,7 @@ Built with **Kotlin** and **Jetpack Compose**. Works fully **offline**.
 
 ## 📚 What is covered
 
-### Data Structures (23)
+### Data Structures (9)
 
 | Group | Topics |
 |---|---|
@@ -35,7 +35,7 @@ Built with **Kotlin** and **Jetpack Compose**. Works fully **offline**.
 | **Trees** | Binary Tree · Binary Search Tree · AVL Tree · Red-Black Tree · Min Heap · Max Heap · B-Tree · B+ Tree · Trie |
 | **Graphs** | Directed · Undirected · Weighted · Unweighted |
 
-### Algorithms (39)
+### Algorithms (18)
 
 | Category | Topics |
 |---|---|
